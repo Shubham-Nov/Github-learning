@@ -1,3 +1,5 @@
-const age = 24;
+age = 24;
 name = "shubham";
-age = 23;
+sex = male
+
+pan = 456789
